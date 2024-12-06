@@ -1,0 +1,29 @@
+.home-container {
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: black;
+}
+.reg-btn {
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 15px;
+  margin-top: 10px;
+}
+.text-container {
+  text-align: center;
+}
+.meetup {
+  height: 300px;
+  width: 550px;
+  margin: 30px;
+}

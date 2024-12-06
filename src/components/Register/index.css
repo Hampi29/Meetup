@@ -1,0 +1,29 @@
+.register-container {
+  height: 90vh;
+  width: 100vw;
+  display: flex;
+  padding: 20px;
+  color: black;
+}
+
+.register-image {
+  height: 350px;
+  width: 250px;
+  margin-right: 20px;
+}
+.right-container {
+  height: 350px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+}
+.input-container {
+  background-color: transparent;
+  border: black 2px solid;
+  width: 250px;
+  height: 25px;
+  border-radius: 5px;
+}
+.error-msg {
+  color: #ff0b37;
+}
